@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # Whistling Heron
 
-We provide the latest in satellite communication hardware.
+Satcom and RF solutions made to a better tune. You'll like what you hear.
