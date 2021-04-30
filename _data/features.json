@@ -11,7 +11,7 @@
   },
   {
     "title": "Modern Software",
-    "description": "Effortlessly leverage languages such as Python, Julia, and C++ to power your hardware.",
+    "description": "Powered by Julia, C++, and -- most importantly -- Python.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   },
   {
@@ -20,7 +20,6 @@
     "image": "images/features/noun_3d modeling_1885342.svg"
   },
   {
-    
     "title": "Testing",
     "description": "The path from design to reality is a painful one, but we'll be with you every step of the way.",
     "image": "images/features/noun_The Process_1885341.svg"
