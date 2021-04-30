@@ -1,17 +1,32 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Custom Design",
+    "description": "Tracking receivers, interference detectors, con-scans -- tell us what you need and we'll make it.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Premade Designs",
+    "description": "Maybe we've already made something to your liking. Reach out and we'll send you the specs.",
+    "image": "images/features/noun_3d modeling_1885342.svg"
+  },
+  {
+    "title": "Testing",
+    "description": "The path from design to reality is a painful one, but we'll be with you every step of the way. Or we'll do it for you.  ",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Manufacturing",
+    "description": "Don't just want the design -- want to see it shipped to you with a bow on top? We've got you covered.",
+    "image": "images/features/noun_3d modeling_1885342.svg"
+  },
+  {
+    "title": "Modern Software",
+    "description": "Leverage secure, effective languages such as Python, Julia, and C++ to power your hardware.",
+    "image": "images/features/noun_3d modeling_1885342.svg"
+  },
+  {
+    "title": "All-American",
+    "description": "We proudly mark that all of our products are made in the USA. Just feels better that way.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
