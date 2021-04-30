@@ -10,9 +10,9 @@
     "image": "images/features/noun_3d modeling_1885342.svg"
   },
   {
-    "title": "Testing",
-    "description": "The path from design to reality is a painful one, but we'll be with you every step of the way. Or we'll do it for you.  ",
-    "image": "images/features/noun_The Process_1885341.svg"
+    "title": "Modern Software",
+    "description": "Leverage secure, effective languages such as Python, Julia, and C++ to power your hardware.",
+    "image": "images/features/noun_3d modeling_1885342.svg"
   },
   {
     "title": "Manufacturing",
@@ -20,13 +20,14 @@
     "image": "images/features/noun_3d modeling_1885342.svg"
   },
   {
-    "title": "Modern Software",
-    "description": "Leverage secure, effective languages such as Python, Julia, and C++ to power your hardware.",
-    "image": "images/features/noun_3d modeling_1885342.svg"
+    
+    "title": "Testing",
+    "description": "The path from design to reality is a painful one, but we'll be with you every step of the way.",
+    "image": "images/features/noun_The Process_1885341.svg"
   },
   {
     "title": "All-American",
-    "description": "We proudly mark that all of our products are made in the USA. Just feels better that way.",
+    "description": "We proudly mark that all of our products are made in the USA.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
