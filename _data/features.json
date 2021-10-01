@@ -11,12 +11,12 @@
   },
   {
     "title": "Modern Software",
-    "description": "Powered by Julia, C++, and -- most importantly -- Python.",
+    "description": "Powered by Julia, C++, and Python.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   },
   {
     "title": "Manufacturing",
-    "description": "Don't just request the design documents, get a dozen shipped with rapid turnaround.",
+    "description": "Either own the design or buy them fully built and ready to go.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "title": "All-American",
-    "description": "We proudly make all of our products here in the USA.",
+    "description": "Everything we can, we do here in America.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
